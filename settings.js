@@ -32,6 +32,9 @@ global.botname = ' ☬𝙥𝙧𝙖𝙢𝙚𝙨𝙝༆𝙡𝙞𝙤𝙣༒𝙡𝙞
 global.button = '𝙢𝙮 𝙬𝙝𝙖𝙩𝙨𝙖𝙥𝙥 𝙜𝙧𝙤𝙪𝙥' //Costomize A Button Name In Alive Message
 global.btnurl = 'https://chat.whatsapp.com/DKzR6vonZFzF8nlE8CEJPl' //Change Your Button's URL
 
+global.button = '𝙢𝙮 𝙬𝙝𝙖𝙩𝙨𝙖𝙥𝙥2 𝙜𝙧𝙤𝙪𝙥' //Costomize A Button Name In Alive Message
+global.btnurl = 'https://chat.whatsapp.com/E3enguWGKzLJT0PES2AhrY' //Change Your Button's URL
+
 global.region = 'India, South India, Kerala' //Country Region
 
 global.packname = '☬𝙥𝙧𝙖𝙢𝙚𝙨𝙝༆𝙡𝙞𝙤𝙣༒𝙗𝙤𝙩࿐' //Bot Pacage Name
